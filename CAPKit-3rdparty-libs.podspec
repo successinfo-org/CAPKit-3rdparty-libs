@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "CAPKit-3rdparty-libs"
-  s.version      = "0.1.4"
+  s.version      = "0.1.5"
   s.summary      = "CAPKit-3rdparty-libs library."
   s.description  = <<-DESC
                    libevent, openssl, libcurl, tor, c-ares, mcrypt, mhash, sqlcipher, lame.
